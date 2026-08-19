@@ -77,6 +77,11 @@ I check whether the booking is deleted successfully.
 
 My test plan looks like this:
 
+## 📁 JMeter Test Plan Structure
+
+My test plan looks like this:
+
+```text
 Thread Group
 │
 ├── Create Token
