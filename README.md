@@ -1,6 +1,6 @@
-RESTful Booker API Performance Testing with JMeter
+**RESTful Booker API Performance Testing with JMeter**
 
-About This Project
+**About This Project**
 
 This is my first performance testing project using Apache JMeter.
 
